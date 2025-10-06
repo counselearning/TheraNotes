@@ -13,7 +13,7 @@ A secure, local-first personal counseling record system
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-brightgreen.svg)](https://tauri.app/)
 [![Svelte](https://img.shields.io/badge/Svelte-5.0-orange.svg)](https://svelte.dev/)
 
-[官方網站](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html) • [下載](https://github.com/yourusername/TheraNotes/releases) • [贊助支持](https://portaly.cc/TheraNotes/support)
+[官方網站](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html) • [下載](https://github.com/counselearning/TheraNotes/releases) • [贊助支持](https://portaly.cc/TheraNotes/support)
 
 </div>
 
