@@ -18,6 +18,25 @@ A secure, local-first personal counseling record system
 </div>
 
 ---
+## ✨V1.3.0全新功能
+- ✨ 新增記錄匯出功能：現在可以匯出 PDF、Word 或 TXT 文字檔了！
+- ✨ 支援選擇是否連同個案資料一同匯出
+- ✨ 支援選擇特定晤談次數進行匯出
+- 🎨 美化 PDF 排版，提升匯出文件的可讀性
+- 🔧 嘗試 MacOS 相容性打包發布 ── 現在可以支援MacOS系統了
+
+#### MacOS安裝步驟
+※由於本程式尚未取得Apple inc.之數位簽章，安裝時會跳出無法使用或是無效安裝程式等訊息。
+若有疑慮請等待TheraNotes取得數位簽章後再行下載（有可能很久，因為簽章需要年費，而本專案無固定收入）
+
+1. 下載適用於MacOS的安裝包（M系列晶片下載macos-aarch64-apple-darwin.zip；Intel系列晶片下載macos-x86_64-apple-darwin.zip）
+2. 在Finder中找到TheraNotes.app
+3. 按住Control鍵並點擊應用程式
+4. 選擇「打開」
+5. 在彈出的對話框中點擊「打開」
+6. 安裝完成
+
+---
 
 ## 📖 關於 TheraNotes
 
