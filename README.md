@@ -23,7 +23,7 @@ A secure, local-first personal counseling record system
 - ✨ 支援選擇是否連同個案資料一同匯出
 - ✨ 支援選擇特定晤談次數進行匯出
 - 🎨 美化 PDF 排版，提升匯出文件的可讀性
-- 🔧 嘗試 MacOS 相容性打包發布 ── 現在可以支援MacOS系統了
+- 🔧 嘗試 MacOS 相容性打包發布Beta版本 ── 現在可以支援MacOS系統了
 
 #### MacOS安裝步驟
 ※由於本程式尚未取得Apple inc.之數位簽章，安裝時會跳出無法使用或是無效安裝程式等訊息。
