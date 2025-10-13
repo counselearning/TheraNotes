@@ -8,12 +8,12 @@
 
 A secure, local-first personal counseling record system
 
-[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html)
-[![License](https://img.shields.io/badge/license-免費軟體-green.svg)](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html)
+[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://theranotes.dpdns.org/)
+[![License](https://img.shields.io/badge/license-免費軟體-green.svg)](https://theranotes.dpdns.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-brightgreen.svg)](https://tauri.app/)
 [![Svelte](https://img.shields.io/badge/Svelte-5.0-orange.svg)](https://svelte.dev/)
 
-[官方網站](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html) • [下載安裝](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html#download) • [贊助支持](https://portaly.cc/TheraNotes/support)
+[官方網站](https://theranotes.dpdns.org/) • [下載安裝](https://theranotes.dpdns.org/TheraNotesDownload) • [贊助支持](https://portaly.cc/TheraNotes/support)
 
 </div>
 
@@ -133,7 +133,7 @@ TheraNotes 是一款專為心理師設計的**個案管理系統**，提供安�
 
 ### 下載方式
 
-請前往 [官方網站下載頁面](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html#download) 下載最新版本。
+請前往 [官方網站下載頁面](https://theranotes.dpdns.org/TheraNotesDownload) 下載最新版本。
 
 ### 安裝選項
 
@@ -291,7 +291,7 @@ TheraNotes 是完全免費的軟體。如果這個專案對您有幫助，歡迎
 
 - **開發者**：Ori_Lee
 - **Email**：lee2952000@gmail.com
-- **官方網站**：[https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html)
+- **官方網站**：[https://theranotes.dpdns.org/)
 - **贊助支持**：[https://portaly.cc/TheraNotes/support](https://portaly.cc/TheraNotes/support)
 
 ---
