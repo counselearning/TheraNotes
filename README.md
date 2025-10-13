@@ -8,7 +8,7 @@
 
 A secure, local-first personal counseling record system
 
-[![Version](https://img.shields.io/badge/version-1.2.4-blue.svg)](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html)
+[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html)
 [![License](https://img.shields.io/badge/license-免費軟體-green.svg)](https://filedn.eu/lnMPQu6qnE709ro96qxK1tR/TheraNotes.html)
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-brightgreen.svg)](https://tauri.app/)
 [![Svelte](https://img.shields.io/badge/Svelte-5.0-orange.svg)](https://svelte.dev/)
@@ -48,7 +48,7 @@ TheraNotes 是一款專為心理師設計的**個案管理系統**，提供安�
 - **✅使用者自訂設定**：
   - ✅自訂資料庫檔案儲存位置
   - ✅修改資料庫密碼功能
-- **個案紀錄匯出**：支援匯出個案資料為 PDF、DOC、TXT 等格式
+- **✅個案紀錄匯出**：支援匯出個案資料為 PDF、DOC、TXT 等格式
 - **多語系支援**：提供英文介面選項
 - **資料備份與還原**：
   - 一鍵備份整個資料庫到指定位置
@@ -140,7 +140,7 @@ TheraNotes_x.x.x_x64-setup.exe
 >
 > 您也可以選擇下方的**攜帶版（免安裝）**，解壓縮後直接執行即可使用。
 
-#### 🏢 企業版：MSI 安裝檔
+#### 🏢 若您有電腦最高權限：MSI 安裝檔
 ```
 TheraNotes_x.x.x_x64_en-US.msi
 ```
@@ -223,7 +223,7 @@ TheraNotes 採用現代化技術堆疊打造，確保效能、安全性與使用
 - **加密保護**：使用業界標準的 SQLCipher AES-256 加密
 
 ### 資料位置
-- **安裝版**：`%APPDATA%\com.orilee.theranotes\` 或 `P:\[90]TheraNotes\`（若 P 槽存在）
+- **安裝版**：`%APPDATA%\com.orilee.theranotes\
 - **攜帶版**：程式執行檔所在目錄
 
 ### 資料備份建議
@@ -290,7 +290,19 @@ TheraNotes 是完全免費的軟體。如果這個專案對您有幫助，歡迎
 
 ## 📝 更新日誌
 
-### V1.2.4 (2025-10-07) - 最新版本
+### V1.3.0 (2025-10-13)
+
+#### 新功能
+- ✨ 新增記錄匯出功能：現在可以匯出 PDF、Word 或 TXT 文字檔了！
+- ✨ 支援選擇是否連同個案資料一同匯出
+- ✨ 支援選擇特定晤談次數進行匯出
+- 🎨 美化 PDF 排版，提升匯出文件的可讀性
+- 🔧 嘗試 MacOS 相容性打包發布
+
+#### 備註
+- 📌 目前 PDF 匯出效果可能仍不盡人意，建議匯出文字格式編輯後再自行轉成 PDF
+
+### V1.2.4 (2025-10-07)
 
 #### 改進
 - 🔧 改進登入頁面邏輯
