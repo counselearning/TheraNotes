@@ -114,7 +114,7 @@ TheraNotes 是一款專為心理師設計的**個案管理系統**，提供安�
 
 ### 下載方式
 
-請前往 [官方網站下載頁面](https://theranotes..net/TheraNotesDownload) 下載最新版本。
+請前往 [官方網站下載頁面](https://theranotes.net/TheraNotesDownload) 下載最新版本。
 
 ### 安裝選項
 
